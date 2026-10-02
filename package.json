@@ -1,0 +1,24 @@
+{
+  "name": "estudos-senac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faculestudos05-lgtm/Estudos-Senac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/faculestudos05-lgtm/Estudos-Senac/issues"
+  },
+  "homepage": "https://github.com/faculestudos05-lgtm/Estudos-Senac#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^8.7.2"
+  }
+}
